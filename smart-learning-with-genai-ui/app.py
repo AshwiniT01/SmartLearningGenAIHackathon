@@ -10,7 +10,7 @@ if 'translation_required' not in st.session_state:
 # Streamlit UI
 st.title("Smart Learning With GenAI")
 # Add an image below the title
-st.image(r"C:\Users\6130180\OneDrive - Thomson Reuters Incorporated\Desktop\Screenshot 2024-12-07 210920.png",
+st.image(fr".\AI.png",
          use_container_width=True)
 
 # First form for initial input
